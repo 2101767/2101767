@@ -23,9 +23,9 @@ I'm a software Engineer. I enjoy coding open-source projects that solve unique p
 &nbsp;
 
 ## 👇 &nbsp;Current project
- GPS Traking System ( Embedded Systems) &nbsp;
- Fighting Game 
- I`m Learning Data Anaylsis
+ - GPS Traking System ( Embedded Systems) &nbsp;
+ - Fighting Game &nbsp;
+ - I`m Learning Data Anaylsis &nbsp;
 
 &nbsp;
 
@@ -45,4 +45,4 @@ I'm a software Engineer. I enjoy coding open-source projects that solve unique p
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2101767&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-<a rel="me" href "www.linkedin.com/in/ahmed-karam-68a8a3189>Follow me on LinkedIn</a>
+<a> rel="me" href "www.linkedin.com/in/ahmed-karam-68a8a3189>Follow me on LinkedIn</a>
