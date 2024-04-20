@@ -23,8 +23,8 @@ I'm a software Engineer. I enjoy coding open-source projects that solve unique p
 &nbsp;
 
 ## 👇 &nbsp;Current project
- GPS Traking System ( Embedded Systems)
- Fighting Game
+ GPS Traking System ( Embedded Systems) &nbsp;
+ Fighting Game 
  I`m Learning Data Anaylsis
 
 &nbsp;
@@ -38,14 +38,6 @@ I'm a software Engineer. I enjoy coding open-source projects that solve unique p
 &nbsp;
 
 
-
-
-
-## 🖥 &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedKaramXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/2101767) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)]
-
-&nbsp;
 
 ## 📊 &nbsp;Stats
 
