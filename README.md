@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 👋 &nbsp;Welcome EveryOne
 
-I'm a software Engineer. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like Analysis, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on LinkedIn [@Sudo_Overflow](www.linkedin.com/in/ahmed-karam-68a8a3189). Feel free to tweet me any time.
+I'm a software Engineer. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like Analysis, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on LinkedIn [www.linkedin.com/in/ahmed-karam-68a8a3189 ](www.linkedin.com/in/ahmed-karam-68a8a3189). Feel free to tweet me any time.
 &nbsp;
 
 ## 👇 &nbsp;Current project
@@ -53,4 +53,4 @@ I'm a software Engineer. I enjoy coding open-source projects that solve unique p
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2101767&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
+<a rel="me" href "www.linkedin.com/in/ahmed-karam-68a8a3189>Follow me on LinkedIn</a>
